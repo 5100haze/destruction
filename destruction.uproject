@@ -25,6 +25,10 @@
 		{
 			"Name": "ChaosFlesh",
 			"Enabled": true
+		},
+		{
+			"Name": "PCG",
+			"Enabled": true
 		}
 	]
 }
